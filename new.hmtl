@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title></title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="
+      background-color:#f1f1f1;
+      text-align:center;
+      padding:40px;
+    ">
+    <img src="https://i.imgs.ovh/2023/09/17/lPjI.png" alt="聂亮" width="80px" height="80px" />
+     
+    </div>
+    <div style="
+    max-width:700px;
+    margin:30px auto;
+    padding:15px;
+    line-height:3;
+    
+    "
+    >
+      <p>根植于内心的修养</p>
+      <p>无需提醒的自觉</p>
+      <p>以约束为前提的自由</p>
+      <p>为他人着想的善良</p>
+    </div>
+    <div style="
+      background-color:#f1f1f1;
+      text-align:center;
+      padding:40px;
+      font-size:12px;
+
+    ">
+    <p>我的网站</p>
+    <a href="https://space.bilibili.com/1847751901?spm_id_from=333.1007.0.0">友情链接</a>
+    </div>
+      <h1>新标签</h1>
+  </body>
+</html>
